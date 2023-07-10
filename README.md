@@ -1,5 +1,5 @@
 # Drug-Spider
-"Web Scraping Drug Information from [](drugs.com) with Scrapy"
+"Web Scraping Drug Information from target website: [drugs](drugs.com) with Scrapy"
 
 This Git repository contains a Scrapy spider script that performs web scraping to gather drug information from the drugs.com website. The spider, named "DrugSpider," starts by visiting the main drugs.com page and then navigates through various links to scrape drug and condition data.
 
